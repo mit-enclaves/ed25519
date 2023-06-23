@@ -1,3 +1,5 @@
+This repository is a fork of [orlp/ed25519](https://github.com/orlp/ed25519) repository and is used in the Citadel enclave platform.
+
 Ed25519
 =======
 
